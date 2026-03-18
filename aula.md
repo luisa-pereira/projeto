@@ -1,0 +1,16 @@
+- [ ] não determinística; probabilística;
+- [ ] contexto;
+- [ ] LLM: Large Language Model;
+- [ ] autocomplete;
+- [ ] active recall;
+- [ ] explicações: "explique com detalhes como se fosse para uma criança da quinta série. exploque os first principles";
+    - [ ] cuidados: nem sempre tudo é verdade 
+    - [ ] alucinações;
+- [ ] agentes: Agent, Ask (tirar dúvidas, pensar junto, ter ideias, explicar...), Plan;
+- [ ] Plan: Planejar, então gerar;
+- [ ] Agent: Gerar, então explicar;
+- [ ] Motivação com micro vitórias;
+- [ ] Three of thoughts: árvore de pensamento - "Explique no detalhe o motivo dessa implementação que você escolheu. Sugira mais duas implementações diferentes e explique detalhes dos pontos positivos e negativos de cada uma". (Ask)
+- [ ] Documentação: "Faça uma documentação detalhada do que foi feito aqui para que eu possa revisar e aplicar em qualquer outro momento dos meus estudos." (Agent)
+- [ ] PARE - Pergunte, Anote, Revise, Explique, PARE
+- [ ] Reescreva!
